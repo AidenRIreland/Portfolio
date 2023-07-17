@@ -1,2 +1,6 @@
-
+hr{
+    border-style: solid;
+    border-color: black ;
+    border-width: 3px;
+}
 /*added css sheet*/
