@@ -3,4 +3,17 @@ hr{
     border-color: black ;
     border-width: 3px;
 }
+#whole{
+	padding:2px;
+    border-style:ridge;
+    border-color:#fffb00;
+    width:980px;margin-right:auto;
+    margin-left:auto;
+    background-color: #ffffff00;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    background-image: url(imagies/Background\(1\).jpg)
+}
 /*added css sheet*/
