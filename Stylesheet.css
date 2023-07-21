@@ -9,11 +9,11 @@ hr{
     border-color:#fffb00;
     width:980px;margin-right:auto;
     margin-left:auto;
-    background-color: #ffffff00;
+    background-color: rgba(0,0,0,.5);
 }
 body{
     font-family: 'Montserrat', sans-serif;
-    color:black;
+    color:#fff;
     background-image: url(imagies/Background\(1\).jpg)
 }
 /*added css sheet*/
