@@ -10,11 +10,13 @@ hr{
     width:980px;margin-right:auto;
     margin-left:auto;
     background-color: rgba(0,0,0,.5);
+    border-radius: 25px;
 }
 body{
     font-family: 'Montserrat', sans-serif;
     color:#fff;
-    background-image: url(imagies/Background\(1\).jpg)
+    background-image: url(imagies/Background\(1\).jpg);
+    background-repeat: no-repeat;
 }
 .alingtable{
     width: 55%;
@@ -25,4 +27,5 @@ body{
     border-radius: 50%;
     float: right; 
     margin-right: 100px;
+    border: 1px solid #fffb00;
 }
