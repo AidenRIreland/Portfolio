@@ -12,11 +12,17 @@ hr{
     background-color: rgba(0,0,0,.5);
     border-radius: 25px;
 }
-body{
+body,html{
     font-family: 'Montserrat', sans-serif;
     color:#fff;
+    height: 100%;
+}
+.bg{
     background-image: url(imagies/Background\(1\).jpg);
+    height: 100%;
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .alingtable{
     width: 55%;
