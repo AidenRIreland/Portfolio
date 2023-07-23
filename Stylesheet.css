@@ -36,3 +36,10 @@ body,html{
     margin-right: 100px;
     border: 1px solid #fffb00;
 }
+h2{
+    text-decoration: solid;
+    padding-left: 50px;
+}
+p{
+    padding-left: 50px;
+}
